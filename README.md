@@ -12,7 +12,7 @@ Please read the LICENSE under readme/LICENSE for the licensing of SET.
 
 # SET Tutorial
 
-For a full document on how to use SET, visit the SET user manual: https://github.com/
+For a full document on how to use SET, visit the SET user manual: https://github.com/B4soheil
 
 #Features
 
@@ -20,7 +20,7 @@ The Social-Engineer Toolkit is an open-source penetration testing framework desi
 
 ### Bugs and enhancements
 
-For bug reports or enhancements, please open an issue here: https://github.com/
+For bug reports or enhancements, please open an issue here: https://github.com/B4soheil
 
 ### Supported platforms
 
